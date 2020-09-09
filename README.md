@@ -1,8 +1,5 @@
 # NEWSLab_LeetCode
 This repository is for NTU NEWSLab students to practice LeetCode.
-- GitHub account name - nba556677go
-- Student ID - r09922102
-- Your name - bing-shiun han
 
 ## How to practice
 1. Fork [this repository](https://github.com/zhengwei6/NEWSLab_LeetCode) on GitHub ![](images/fork.jpg)
